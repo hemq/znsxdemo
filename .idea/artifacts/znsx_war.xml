@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="znsx:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="docker-demo-java-tomcat.war">
+      <element id="artifact" artifact-name="znsx:war exploded" />
+    </root>
+  </artifact>
+</component>
